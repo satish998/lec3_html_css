@@ -1,0 +1,15 @@
+body{
+    color: blue;
+    text-align:justify ;
+    background-color: rgb(66, 79, 79);
+}
+a{
+    color: brown;
+}
+p{
+    width: 20%;
+    color: blueviolet;
+}
+table,th,td{
+    border: 5px,solid,black;
+}
